@@ -72,10 +72,7 @@ data['features'].forEach(element => {
   let populationDensity= element.properties.density
   let type = element.type
 
-
  
-
-  
   // console.log(element.geometry.coordinates)
   d3.csv('static/js/state_data.csv').then((x)=>{
     // console.log(x)

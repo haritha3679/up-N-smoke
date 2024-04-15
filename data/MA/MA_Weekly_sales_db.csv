@@ -1,0 +1,12 @@
+﻿db.define_table('MA_Weekly_sales',
+    Field('SaleDate','date'),
+    Field('ProductCategoryName'),
+    Field('UnitOfMeasureName'),
+    Field('TotalPrice','double'),
+    Field('CountBasedTotal','double'),
+    Field('DollarCountBasedTotal','double'),
+    Field('WeightBasedTotal','double'),
+    Field('DollarWeightBasedTotal','double'),
+    Field('Quantity','double'),
+    Field('CCCLastUpdated','date'),
+    redefine = True)
