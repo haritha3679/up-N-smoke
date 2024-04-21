@@ -53,7 +53,7 @@ Jupyter_Notebook
 In the  Data/images Folder we have  all the charts and plots along with background images we used in pythonAnywhere
 
 static/css. Styling sheets are within this file
-
+![staticfolder](static/img/static_folder.png)
 
 
 All data files are within Data/MA folder which consist of csv, excel and json files. 
