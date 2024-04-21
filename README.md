@@ -44,18 +44,22 @@ We compiled nearly a million rows of data from a combination of resources:
 
 ## Smoking  the code:
 In order to navigate through the analysis follow steps below
-Up-N-Smoke is our root folder,  this includes ReadMe, index.html, index_chart, index_rec_med.html, 
-Jupyter_Notebook 
--MA_Crime_Data_starter-checkpoint.ipynb
--MA_Crime_Data_starter.ipynb
--Bokeh_seaborn_plotly_diff_chart_Product.ipynb 
+- Up-N-Smoke is our root folder.  This includes
+  - ReadMe,
+  - index_cul_map.html,
+  - index_chart.html,
+  - index_rec_med.html, 
+  - Jupyter_Notebook 
+  - MA_Crime_Data_starter-checkpoint.ipynb
+  - MA_Crime_Data_starter.ipynb
+  - Bokeh_seaborn_plotly_diff_chart_Product.ipynb 
 
 In the  Data/images Folder we have  all the charts and plots along with background images we used in pythonAnywhere
 
 static/css. Styling sheets are within this file
 ![staticfolder](static/img/static_folder.png)
 
-
+Application of the SciKit Random Forest Regressor machine learning and some light evaluation is done here, and further exploration is continued in this repository <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>here</strong></a>
 All data files are within Data/MA folder which consist of csv, excel and json files. 
 Cannabis Medical and Recreational Licenses : Show when Medical and Recreational licenses are granted for each state and color code them.  D3.JS takes Json as an input plots the map with the pop up message about the licenses and year they were licensed
 Up-N-smoke/index_rec_med.html  - calls below .js script
