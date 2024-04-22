@@ -70,10 +70,10 @@ Up-N-smoke/static/js/logic_rec.js
 
 ## Contributors
 - Carmen Y Wiggins  
-- Kat
-- Vethika
-- Haritha
-- Michelle
+- Kathleen Snider
+- Veethika Singh
+- Haritha Koleti
+- Michelle Petras
 
 
 
