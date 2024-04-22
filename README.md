@@ -60,7 +60,7 @@ static/css. Styling sheets are within this file
 ![staticfolder](static/img/static_folder.png)
 
 Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a>
-Link to interactive national legalization map <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a>
+Link to interactive national legalization map <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a>
 All data files are within Data/MA folder which consist of csv, excel and json files. 
 Cannabis Medical and Recreational Licenses : Show when Medical and Recreational licenses are granted for each state and color code them.  D3.JS takes Json as an input plots the map with the pop up message about the licenses and year they were licensed
 Up-N-smoke/index_rec_med.html  - calls below .js script
