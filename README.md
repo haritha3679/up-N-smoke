@@ -5,9 +5,9 @@
 The Cannabis Data Project is an initiative aimed at gathering and analyzing data related to cannabis use, legalization, and its impact on crime rates. This project aggregates data from various sources including the FBI Crime Database, Census Bureau, and Cannabis Commissions at the state level to mention a few sources.
 
 ## Project Goals
-- Data Collection: Gather comprehensive data related to cannabis legalization by state, Sales and associated crime rates with a focus on Massachusetts due to other states data limitations .
-- Analysis: Analyze the collected data to identify trends, correlations, Gross sale by Recreational and Medical. and potential insights into the impact of cannabis legalization and crime. 
-- Visualization: Create visualizations to present the findings of the analysis in an accessible and understandable format. Using Plotly, bokeh, matplotlib, leaflet, D3.Json.
+- <strong>Data Collection:</strong> Gather comprehensive data related to cannabis legalization by state, Sales and associated crime rates with a focus on Massachusetts due to other states data limitations .
+- <strong>Analysis:</strong> Analyze the collected data to identify trends, correlations, Gross sale by Recreational and Medical. and potential insights into the impact of cannabis legalization and crime. 
+- <strong>Visualization:</strong> Create visualizations to present the findings of the analysis in an accessible and understandable format. Using Plotly, bokeh, matplotlib, leaflet, D3.Json.
 
 ## Smokestack Building
 We compiled nearly a million rows of data from a combination of resources:
