@@ -1,5 +1,5 @@
 ### up-N-smoke
-### Team project to examine effects of cannabis in communities
+# Team project to examine effects of cannabis in communities
 
 ## Overview
 The Cannabis Data Project is an initiative aimed at gathering and analyzing data related to cannabis use, legalization, and its impact on crime rates. This project aggregates data from various sources including the FBI Crime Database, Census Bureau, and Cannabis Commissions at the state level to mention a few sources.
@@ -21,7 +21,7 @@ We compiled nearly a million rows of data from a combination of resources:
 - SQlite 
 - Bottle/flask
 - Py4Web
-- SQlite provides the backend for our data(database) for our hosted application in PythonAnywhere
+- SQlite provides the backend data (database) for our hosted application in PythonAnywhere
 
 ## Data Cleaning
 - Perform data cleaning and preprocessing to ensure consistency and accuracy in the collected datasets.
