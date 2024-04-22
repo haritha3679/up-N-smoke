@@ -12,13 +12,13 @@ The Cannabis Data Project is an initiative aimed at gathering and analyzing data
 ## Smokestack Building
 We compiled nearly a million rows of data from a combination of resources:
 - FBI
-- State of Massachusetts
+- State of Massachusetts 
 - National Legalization Data
 - US Government Census
 
 ## Data Collection Process
-- API Integration:
-- SQlite, 
+- API Integration
+- SQlite 
 - Bottle/flask
 - Py4Web
 - Sqlite provides the backend for our data(database) for our hosted application in PythonAnywhere
