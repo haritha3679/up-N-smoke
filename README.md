@@ -61,7 +61,7 @@ static/css - styling sheets are within this file
 
 Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
 Link to interactive national legalization map: <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a><br>
-This national map shows when Medical and Recreational Cannabis licenses were granted for each state and color codes them. D3.JS takes Json as an input, plots the map with the pop up message about the licenses and year they were approved
+This national map shows when Medical and Recreational Cannabis licenses were granted for each state and color codes them. D3.JS takes Json as an input, plots the map with the pop up message about the licenses and year they were approved <br>
 Up-N-smoke/index_rec_med.html - calls below .js script <br>
 Up-N-smoke/static/js/logic_rec.js<br>
 
