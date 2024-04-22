@@ -40,6 +40,7 @@ We compiled nearly a million rows of data from a combination of resources:
 - In our data collection process, we prioritized data ethics by directly requesting datasets from scientists, ensuring responsible and ethical data sourcing practices, as opposed to utilizing platforms like Kaggle or other repositories
 - Because of data ethics considerations, it's important to note that the utilized datasets mainly served businesses and crime data which was publicly accessible
   - As a result, utilized data did not contain any personally identifiable information (PII) <br>
+<br>
 The process of locating scientists who have previously conducted similar research and published their findings to serve as validation for the data backup endeavor has encountered significant obstacles, intensifying the ethical dilemmas at hand. Despite diligent efforts, identifying suitable counterparts with comparable studies has proven arduous, casting doubt on the integrity of the backup procedure. This predicament underscores the complexity of ensuring ethical conduct in data management practices.
 
 ## Smoking  the code:
