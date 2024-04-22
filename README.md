@@ -25,6 +25,13 @@ We compiled nearly a million rows of data from a combination of resources:
 
 ## Data Cleaning
 - Perform data cleaning and preprocessing to ensure consistency and accuracy in the collected datasets
+- Cannabis business License data for Massachussets was downloaded. The file was missing data for county and latitude/longitude
+- The same was retrieved from geoapify website using api calls and reading the response json file
+- The response however was not consistent and returned varying structures
+- The main file was broken down nto 5 parts to isolate the error records
+- The remaining retuned output files were combined to one main file. The manually corrected records were added as well(about 30)
+- The file was used to create a pivot chart of businesses by county for analysis
+- it was also used to create a postgresql database of the license data by county. The visualization however was created using sqllite 
 
 ## Analysis and Visualization
 ### Descriptive Analysis: 
@@ -53,7 +60,9 @@ In order to navigate through the analysis follow steps below
   - Jupyter_Notebook 
   - MA_Crime_Data_starter-checkpoint.ipynb
   - MA_Crime_Data_starter.ipynb
-  - Bokeh_seaborn_plotly_diff_chart_Product.ipynb 
+  - Bokeh_seaborn_plotly_diff_chart_Product.ipynb
+  - address2.ipynb
+  - address license.pgerd (for analysis sqllite was used later)
 
 In the data/images folder we have all the charts and plots along with background images we used in PythonAnywhere
 
