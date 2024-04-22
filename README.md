@@ -68,7 +68,7 @@ Up-N-smoke/static/js/logic_rec.js
 
 -in order to run the code as it was structured you need to use py4web which it was used to deploy PythonAnywhere, 
 
-##Contributors
+## Contributors
 - Carmen Y Wiggins  
 - Kat
 - Vethika
