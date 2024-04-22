@@ -32,6 +32,7 @@ We compiled nearly a million rows of data from a combination of resources:
 - The remaining retuned output files were combined to one main file. The manually corrected records were added as well(about 30)
 - The file was used to create a pivot chart of businesses by county for analysis
 - There was no corelation found between crime data and counties with more businesses
+- Data for MA for this is under data/MA/New Folder
 - it was also used to create a postgresql database of the license data by county. The visualization however was created using sqllite 
 
 ## Analysis and Visualization
