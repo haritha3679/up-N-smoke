@@ -21,7 +21,7 @@ We compiled nearly a million rows of data from a combination of resources:
 - SQlite 
 - Bottle/flask
 - Py4Web
-- Sqlite provides the backend for our data(database) for our hosted application in PythonAnywhere
+- SQlite provides the backend for our data(database) for our hosted application in PythonAnywhere
 
 ## Data Cleaning
 - Perform data cleaning and preprocessing to ensure consistency and accuracy in the collected datasets.
@@ -34,7 +34,7 @@ We compiled nearly a million rows of data from a combination of resources:
 ### Interactive Charts:
 - Develop interactive charts using libraries like Plotly Bokeh to visualize trends and patterns in the data to shoe MA sales by Medical and Recreational, by category.
 ### Geospatial Visualization: 
-- Create interactive maps using libraries like Leaflet or Plotly to illustrate the geographical distribution of cannabis-business ( Dispensaries, Plantations, Laboratories.
+- Create interactive maps using libraries like Leaflet or Plotly to illustrate the geographical distribution of cannabis-business (Dispensaries, Cultivators, Product Manufacturers)
 
 ## Ethics
 - In our data collection process, we prioritized data ethics by directly requesting datasets from scientists, ensuring responsible and ethical data sourcing practices, as opposed to utilizing platforms like Kaggle or other repositories.
@@ -44,19 +44,19 @@ We compiled nearly a million rows of data from a combination of resources:
 
 ## Smoking  the code:
 In order to navigate through the analysis follow steps below
-- Up-N-Smoke is our root folder.  This includes
-  - ReadMe,
-  - index_cul_map.html,
-  - index_chart.html,
-  - index_rec_med.html, 
+- Up-N-Smoke is our root folder. This includes
+  - ReadMe
+  - index_cul_map.html
+  - index_chart.html
+  - index_rec_med.html
   - Jupyter_Notebook 
   - MA_Crime_Data_starter-checkpoint.ipynb
   - MA_Crime_Data_starter.ipynb
   - Bokeh_seaborn_plotly_diff_chart_Product.ipynb 
 
-In the  Data/images Folder we have  all the charts and plots along with background images we used in pythonAnywhere
+In the data/images folder we have all the charts and plots along with background images we used in PythonAnywhere
 
-static/css. Styling sheets are within this file
+static/css - styling sheets are within this file
 ![staticfolder](static/img/static_folder.png)
 
 Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a>
@@ -66,11 +66,11 @@ Cannabis Medical and Recreational Licenses : Show when Medical and Recreational 
 Up-N-smoke/index_rec_med.html  - calls below .js script
 Up-N-smoke/static/js/logic_rec.js
 
--in order to run the code as it was structured you need to use py4web which it was used to deploy PythonAnywhere, 
+- In order to run the code as it was structured you need to use py4web which it was used to deploy PythonAnywhere, 
 
 ## Contributors
 - Carmen Y Wiggins  
-- Kathleen Snider
+- Kathleen Snider-Belinski
 - Veethika Singh
 - Haritha Koleti
 - Michelle Petras
