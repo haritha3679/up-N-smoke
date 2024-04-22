@@ -57,7 +57,6 @@ In order to navigate through the analysis follow steps below
 
 In the data/images folder we have all the charts and plots along with background images we used in PythonAnywhere
 
-Styling sheets are within the static/css folder
 ![staticfolder](static/img/static_folder.png)
 
 Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
