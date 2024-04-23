@@ -57,19 +57,19 @@ The process of locating scientists who have previously conducted similar researc
   - SQlite also provides the backend data (database) for our hosted application in PythonAnywhere
 ## Smoking  the code:
 In order to navigate through the analysis follow steps below
-- <strong> Root folder:</strong> Up-N-Smoker. This includes
+- <strong> Root folder:</strong> Up-N-Smoker. This includes below files. 
   - ReadMe
-  - index_cul_map.html
-  - index_chart.html
-  - index_rec_med.html
+  - index_cul_map.html : Shows the cultivators in MA 
+  - index_chart.html   : Shows the Sales Analysis in MA
+  - index_rec_med.html : Shows the US states licenses details for Recreational and Medical
   - Jupyter_Notebook 
-  - MA_Crime_Data_starter-checkpoint.ipynb
-  - MA_Crime_Data_starter.ipynb
-  - Bokeh_seaborn_plotly_diff_chart_Product.ipynb
-  - address2.ipynb
-  - address license.pgerd (for analysis sqllite was used later)
+    - MA_Crime_Data_starter-checkpoint.ipynb : Crime Analysis
+    - MA_Crime_Data_starter.ipynb : Crime Analysis
+    - Bokeh_seaborn_plotly_diff_chart_Product.ipynb : Sales by Product analysis
+    - address2.ipynb : Data cleansing process
+    - address license.pgerd (for analysis sqllite was used later) : Address Licenses shown in the Database.
 
-In the data/images folder we have all the charts and plots along with background images we used in PythonAnywhere
+- <strong> data folder </strong> we have all the charts and plots along with background images we used in PythonAnywhere
 
 ![staticfolder](static/img/static_folder.png)
 
