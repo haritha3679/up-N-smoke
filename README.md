@@ -57,7 +57,7 @@ The process of locating scientists who have previously conducted similar researc
   - SQlite also provides the backend data (database) for our hosted application in PythonAnywhere
 ## Smoking  the code:
 In order to navigate through the analysis follow steps below
-- Up-N-Smoke is our root folder. This includes
+- <strong> Root folder:</strong> Up-N-Smoker. This includes
   - ReadMe
   - index_cul_map.html
   - index_chart.html
