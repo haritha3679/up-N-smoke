@@ -31,17 +31,6 @@ Its an exciting ,frustrating and great learning process for us on this project.W
 - There was no corelation found between crime data and counties with more businesses
 - Data for MA for this is under data/MA/New Folder
 - it was also used to create a postgresql database of the license data by county. The visualization however was created using sqllite 
-
-## Analysis and Visualization
-### Descriptive Analysis: 
-- Conduct descriptive statistical analysis to summarize the characteristics of the collected data
-### Correlation Analysis: 
-- Explore correlations between cannabis legalization and crime rates using statistical methods
-### Interactive Charts:
-- Develop interactive charts using libraries like Plotly and Bokeh to visualize trends and patterns in the data to show Massachusetts sales by type (medical vs Recreational) and category
-### Geospatial Visualization: 
-- Create interactive maps using libraries like Leaflet or Plotly to illustrate the geographical distribution of cannabis-businesses (dispensaries, cultivators, and product manufacturers)
-
 ## Ethics
 - In our data collection process, we prioritized data ethics by directly requesting datasets from scientists, ensuring responsible and ethical data sourcing practices, as opposed to utilizing platforms like Kaggle or other repositories
 - Because of data ethics considerations, it's important to note that the utilized datasets mainly served businesses and crime data which was publicly accessible
@@ -74,8 +63,16 @@ In order to navigate through the analysis follow steps below
 - <strong> static folder </strong> This folder has all Css,.js,images files as shown in the image
 ![staticfolder](static/img/static_folder.png)
 
-## Visualisation.
-
+## Analysis and Visualization
+### Descriptive Analysis: 
+- Conduct descriptive statistical analysis to summarize the characteristics of the collected data
+### Correlation Analysis: 
+- Explore correlations between cannabis legalization and crime rates using statistical methods
+### Interactive Charts:
+- Develop interactive charts using libraries like Plotly and Bokeh to visualize trends and patterns in the data to show Massachusetts sales by type (medical vs Recreational) and category
+### Geospatial Visualization: 
+- Create interactive maps using libraries like Leaflet or Plotly to illustrate the geographical distribution of cannabis-businesses (dispensaries, cultivators, and product manufacturers)
+### Links for Data Visualizaions:
 - Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
 - Link to interactive national legalization map: <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a><br>
 - Crime analytics : Please run below two Jupyter note books for MA crime analysis.
