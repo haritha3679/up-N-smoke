@@ -18,8 +18,7 @@ We compiled nearly a million rows of data from a combination of resources:
 
 ## Data Collection Process
 
-Its an exciting ,frustrating and great learning process for us on this project.We wanted to know where mental health and crime levels affected by legalizing cannabis for recreational use? We found plenty of summaries regarding mental health, but no one was willing to back it up. We reached out to 5 scientists, including Pew Research Center, who published statistical analysis regarding mental health and its relationship with marijuana use to get the data.  No one was willing to back up their claims by sharing their data.  
-Not only was this frustrating, but it causes their assertions to be suspect. After our continual efforts and changing our approach of showing the data analysis , we found data for MA in the above stated sites. We downloaded in JSON,CSV formats
+Its an exciting ,frustrating and great learning process for us on this project.We wanted to know where mental health and crime levels affected by legalizing cannabis for recreational use? We found plenty of summaries regarding mental health, but no one was willing to back it up. We reached out to 5 scientists, including Pew Research Center, who published statistical analysis regarding mental health and its relationship with marijuana use to get the data.  No one was willing to back up their claims by sharing their data. Not only was this frustrating, but it causes their assertions to be suspect. After our continual efforts and changing our approach of showing the data analysis , we found data for MA in the above stated sites. We downloaded in JSON,CSV formats
 
 ## Data Cleaning
 - Perform data cleaning and preprocessing to ensure consistency and accuracy in the collected datasets
