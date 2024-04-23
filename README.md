@@ -47,7 +47,8 @@ Its an exciting ,frustrating and great learning process for us on this project.W
 - Because of data ethics considerations, it's important to note that the utilized datasets mainly served businesses and crime data which was publicly accessible
   - As a result, utilized data did not contain any personally identifiable information (PII) <br>
 <br>
-The process of locating scientists who have previously conducted similar research and published their findings to serve as validation for the data backup endeavor has encountered significant obstacles, intensifying the ethical dilemmas at hand. Despite diligent efforts, identifying suitable counterparts with comparable studies has proven arduous, casting doubt on the integrity of the backup procedure. This predicament underscores the complexity of ensuring ethical conduct in data management practices.
+The process of locating scientists who have previously conducted similar research and published their findings to serve as validation for the data backup endeavor has encountered significant obstacles, intensifying the ethical dilemmas at hand. Despite diligent efforts, identifying suitable counterparts with comparable studies has proven arduous, casting doubt on the integrity of the backup procedure. This predicament underscores the complexity of ensuring ethical conduct in data management practices.<br>
+
 ## Tools Used
 - API Integration
 - Bottle/flask
