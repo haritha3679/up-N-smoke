@@ -11,17 +11,15 @@ The Cannabis Data Project is an initiative aimed at gathering and analyzing data
 
 ## Smokestack Building - Data Sources
 We compiled nearly a million rows of data from a combination of resources:
-- FBI
+
 - <a href='https://masscannabiscontrol.com/open-data/data-catalog/'><strong>State of Massachusetts</strong></a><br>
 - <a href='https://https://mjbizdaily.com/map-of-us-marijuana-legalization-by-state/'><strong>National Legalization Data</strong></a><br>
 - <a href='https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-ne[…]resource/313e56df-6d77-49d2-9c49-ee411f10cf58?inner_span=True'><strong>Crime Data</strong></a><br>
 
 ## Data Collection Process
-- API Integration
-- Bottle/flask
-- Py4Web
-- SQlite
-  - SQlite also provides the backend data (database) for our hosted application in PythonAnywhere
+
+Its an exciting ,frustrating and great learning process for us on this project.We wanted to know where mental health and crime levels affected by legalizing cannabis for recreational use? We found plenty of summaries regarding mental health, but no one was willing to back it up. We reached out to 5 scientists, including Pew Research Center, who published statistical analysis regarding mental health and its relationship with marijuana use to get the data.  No one was willing to back up their claims by sharing their data.  
+Not only was this frustrating, but it causes their assertions to be suspect. After our continual efforts and changing our approach of showing the data analysis , we found data for MA in the above stated sites. We downloaded in JSON,CSV formats
 
 ## Data Cleaning
 - Perform data cleaning and preprocessing to ensure consistency and accuracy in the collected datasets
@@ -51,7 +49,12 @@ We compiled nearly a million rows of data from a combination of resources:
   - As a result, utilized data did not contain any personally identifiable information (PII) <br>
 <br>
 The process of locating scientists who have previously conducted similar research and published their findings to serve as validation for the data backup endeavor has encountered significant obstacles, intensifying the ethical dilemmas at hand. Despite diligent efforts, identifying suitable counterparts with comparable studies has proven arduous, casting doubt on the integrity of the backup procedure. This predicament underscores the complexity of ensuring ethical conduct in data management practices.
-
+## Tools Used
+- API Integration
+- Bottle/flask
+- Py4Web
+- SQlite
+  - SQlite also provides the backend data (database) for our hosted application in PythonAnywhere
 ## Smoking  the code:
 In order to navigate through the analysis follow steps below
 - Up-N-Smoke is our root folder. This includes
