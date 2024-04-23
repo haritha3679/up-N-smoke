@@ -82,7 +82,7 @@ In order to navigate through the analysis follow steps below
 ### Geospatial Visualization: 
 - Create interactive maps using libraries like Leaflet or Plotly to illustrate the geographical distribution of cannabis-businesses (dispensaries, cultivators, and product manufacturers)
 ### Links for Data Visualizaions:
-- Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
+- Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a>
 - Link to interactive national legalization map: <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a>
 - Crime analytics : Please run below two Jupyter note books for MA crime analysis.
     - MA_Crime_Data_starter-checkpoint.ipynb : Crime Analysis
