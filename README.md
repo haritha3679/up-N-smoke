@@ -9,11 +9,11 @@ The Cannabis Data Project is an initiative aimed at gathering and analyzing data
 - <strong>Analysis:</strong> Analyze the collected data to identify trends, correlations, gross sales by recreational and medical, as well as  potential insights into the impact of cannabis legalization and crime
 - <strong>Visualization:</strong> Create visualizations to present the findings of the analysis in an accessible and understandable format, utilizing Plotly, bokeh, matplotlib, leaflet, and D3.Json
 
-## Smokestack Building
+## Smokestack Building - Data Sources
 We compiled nearly a million rows of data from a combination of resources:
 - FBI
-- State of Massachusetts 
-- National Legalization Data
+- <a href='https://masscannabiscontrol.com/open-data/data-catalog/'><strong>State of Massachusetts</strong></a><br>
+- <a href='https://https://mjbizdaily.com/map-of-us-marijuana-legalization-by-state/'><strong>National Legalization Data</strong></a><br>
 - US Government Census
 
 ## Data Collection Process
