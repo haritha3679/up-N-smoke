@@ -69,17 +69,14 @@ In order to navigate through the analysis follow steps below
     - address2.ipynb : Data cleansing process
     - address license.pgerd (for analysis sqllite was used later) : Address Licenses shown in the Database.
 
-- <strong> data folder </strong> we have all the charts and plots along with background images we used in PythonAnywhere
-
+- <strong> data folder:</strong> This folder has all the data file,charts and plots along with background images we used in PythonAnywhere
+  - <strong>data/MA:</strong>All data files csv, excel and json files
+- <strong> static folder </strong> This folder has all Css,.js,images files as shown in the image
 ![staticfolder](static/img/static_folder.png)
 
 Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
 Link to interactive national legalization map: <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a><br>
-This national map shows when Medical and Recreational Cannabis licenses were granted for each state and color codes them. D3.JS takes Json as an input, plots the map with the pop up message about the licenses and year they were approved <br>
-Up-N-smoke/index_rec_med.html - calls below .js script <br>
-Up-N-smoke/static/js/logic_rec.js<br>
-
-All data files are within data/MA folder which consist of csv, excel and json files.<br> 
+.<br> 
 
 - In order to run the code as it was structured you need to use py4web which it was used to deploy PythonAnywhere, 
 
