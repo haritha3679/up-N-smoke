@@ -1,0 +1,301 @@
+city_id,business_city
+cty1,Medway
+cty2,Holyoke
+cty3,Groton
+cty4,ADAMS
+cty5,Whately
+cty6,Boston
+cty7,Lee
+cty8,Hopkinton
+cty9,Chicopee
+cty10,Needham
+cty11,Provincetown
+cty12,Quincy
+cty13,Springfield
+cty14,Fall River
+cty15,Somerville
+cty16,Holbrook
+cty17,Ashby
+cty18,Waltham
+cty19,Orange
+cty20,Lowell
+cty21,Northampton
+cty22,Attleboro
+cty23,Uxbridge
+cty24,Winchendon
+cty25,Turners Falls
+cty26,Brockton
+cty27,Webster
+cty28,Taunton
+cty29,Greenfield
+cty30,West Tisbury
+cty31,NORTON
+cty32,East Boston
+cty33,Winchester
+cty34,Hanson
+cty35,Easthampton
+cty36,Great Barrington
+cty37,Natick
+cty38,Tyngsborough
+cty39,Somerset
+cty40,LYNN
+cty41,Dorchester
+cty42,Hubbardston
+cty43,Woburn
+cty44,Stoughton
+cty45,Turners Fall
+cty46,Fitchburg
+cty47,Worcester
+cty48,Gloucester
+cty49,Clinton
+cty50,Middleborough
+cty51,Rochester
+cty52,Salisbury
+cty53,Dudley
+cty54,Framingham
+cty55,Oxford
+cty56,Wayland
+cty57,MARLBOROUGH
+cty58,Sandwich
+cty59,Athol
+cty60,Newton
+cty61,Milford
+cty62,Plainville
+cty63,Sandisfield
+cty64,Plymouth
+cty65,Kingston
+cty66,Swansea
+cty67,Franklin
+cty68,Georgetown
+cty69,Hudson
+cty70,Gardner
+cty71,Mendon
+cty72,N Chelmsford
+cty73,Dartmouth
+cty74,Pittsfield
+cty75,Palmer
+cty76,Rockland
+cty77,Holland
+cty78,brockton
+cty79,Sudbury
+cty80,Manchester-By-The-Sea
+cty81,Ashburnham
+cty82,Revere
+cty83,Plymouith
+cty84,Sharon
+cty85,Hopedale
+cty86,Douglas
+cty87,PITTSFIELD
+cty88,WOBURN
+cty89,Newburyport
+cty90,Ware
+cty91,Sheffield
+cty92,WAREHAM
+cty93,Brimfield
+cty94,Shelburne
+cty95,Sturbridge
+cty96,Tewksbury
+cty97,Cambridge
+cty98,FITCHBURG
+cty99,Granby
+cty100,Amherst
+cty101,New Bedford
+cty102,Salem
+cty103,Mattapan
+cty104,Hamilton
+cty105,Cherry Valley
+cty106,Ayer
+cty107,Middleboro
+cty108,Malden
+cty109,EVERETT
+cty110,Blandford
+cty111,Southbridge
+cty112,Boxborough
+cty113,Eastham
+cty114,Littleton
+cty115,Type
+cty116,Barre
+cty117,Seekonk
+cty118,ROCHESTER
+cty119,NORTHAMPTON
+cty120,Chelsea
+cty121,Chelmsford
+cty122,Truro
+cty123,Wareham
+cty124,Bellingham
+cty125,Upton
+cty126,Cummington
+cty127,Templeton
+cty128,Stoneham
+cty129,Whitman
+cty130,Berkley
+cty131,Rutland
+cty132,Westfield
+cty133,Roslindale
+cty134,Westborough
+cty135,North Attleboro
+cty136,Ipswich
+cty137,Braintree
+cty138,Bedford
+cty139,Amesbury
+cty140,South Deerfield
+cty141,Rosilindale
+cty142,North Brookfield
+cty143,Plympton
+cty144,Duxbury
+cty145,Blackstone
+cty146,Warren
+cty147,Fairhaven
+cty148,Andover
+cty149,SOMERSET
+cty150,Marlborough
+cty151,Brighton
+cty152,Southampton
+cty153,Barnstable
+cty154,Lynn
+cty155,Monson
+cty156,Melrose
+cty157,Shrewsbury
+cty158,Hardwick
+cty159,BOSTON
+cty160,Millis
+cty161,Haverhill
+cty162,Randolph
+cty163,North Easton
+cty164,Norton
+cty165,Holliston
+cty166,BROCKTON
+cty167,Otis
+cty168,Cummaquid
+cty169,Orleans
+cty170,Florence
+cty171,North Reading
+cty172,Saugus
+cty173,Bridgewater
+cty174,North Grafton
+cty175,Medford
+cty176,MARION
+cty177,West Springfield
+cty178,Rowley
+cty179,Westport
+cty180,HOLYOKE
+cty181,West Stockbridge
+cty182,Charlton
+cty183,Clarksburg
+cty184,Halifax
+cty185,Mansfield
+cty186,FRAMINGHAM
+cty187,Leicester
+cty188,Milton
+cty189,FAIRHAVEN
+cty190,berkley
+cty191,BARRE
+cty192,ROXBURY
+cty193,Dracut
+cty194,DRACUT
+cty195,Falmouth
+cty196,NEW BEDFORD
+cty197,South Weymouth
+cty198,Brewster
+cty199,Becket
+cty200,Hinsdale
+cty201,Petersham
+cty202,NEEDHAM
+cty203,North Adams
+cty204,MATTAPAN
+cty205,Southwick
+cty206,Wellfleet
+cty207,Marblehead
+cty208,Stow
+cty209,FALL RIVER
+cty210,LEICESTER
+cty211,Colrain
+cty212,Billerica
+cty213,Acton
+cty214,Jamaica Plain
+cty215,Weston
+cty216,Nantucket
+cty217,Hyannis
+cty218,Abington
+cty219,Hadley
+cty220,WELLFLEET
+cty221,Bolton
+cty222,Everett
+cty223,CLINTON
+cty224,Lenox
+cty225,Charlestown
+cty226,Deerfield
+cty227,Norwood
+cty228,Turner Falls
+cty229,Chester
+cty230,Pepperell
+cty231,Lanesborough
+cty232,Essex
+cty233,West Roxbury
+cty234,Harwich
+cty235,spingfield
+cty236,Swampscott
+cty237,Assonet
+cty238,Mashpee
+cty239,Belchertown
+cty240,Roxbury
+cty241,Heath
+cty242,Royalston
+cty243,Spencer
+cty244,Hatfield
+cty245,Conway
+cty246,Millers Falls
+cty247,HUDSON
+cty248,Cheshire
+cty249,Boxford
+cty250,Chatham
+cty251,North Attleborough
+cty252,Dunstable
+cty253,Princeton
+cty254,ATHOL
+cty255,Egremont
+cty256,Lakeville
+cty257,New Braintree
+cty258,ASHBY
+cty259,Middleton
+cty260,Watertown
+cty261,Norwell
+cty262,boston
+cty263,Westminster
+cty264,Avon
+cty265,Northborough
+cty266,Maynard
+cty267,Canton
+cty268,South Egremont
+cty269,Belmont
+cty270,Carver
+cty271,east longmeadow
+cty272,Brookline
+cty273,LEE
+cty274,HYDE PARK
+cty275,Feeding Hills
+cty276,Williamstown
+cty277,CHARLEMONT
+cty278,Beverly
+cty279,Adams
+cty280,Winthrop
+cty281,LANESBOROUGH
+cty282,E. Longmeadow
+cty283,9th Floor
+cty284,MILFORD
+cty285,williamstown
+cty286,Washington
+cty287,Gill
+cty288,Harvard
+cty289,Sunderland
+cty290,MIDDLEBOROUGH
+cty291,LOWELL
+cty292,Hatifled
+cty293,Millbury
+cty294,Marlboro
+cty295,West Newton
+cty296,Millville
+cty297,Allston
+cty298,Leeds
+cty299,springfield
+cty300,Brockton MA
