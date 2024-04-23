@@ -42,6 +42,15 @@ The process of locating scientists who have previously conducted similar researc
 - API Integration
 - Bottle/flask
 - Py4Web
+- Python
+- Jupyter NoteBook
+- Plotly
+- Bokeh
+- Matplotlib
+- LeafLet
+- D3.Js
+- PythonAnywhere
+- Html
 - SQlite
   - SQlite also provides the backend data (database) for our hosted application in PythonAnywhere
 ## Smoking  the code:
