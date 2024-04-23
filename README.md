@@ -74,11 +74,13 @@ In order to navigate through the analysis follow steps below
 - <strong> static folder </strong> This folder has all Css,.js,images files as shown in the image
 ![staticfolder](static/img/static_folder.png)
 
-Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
-Link to interactive national legalization map: <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a><br>
-.<br> 
+## Visualisation.
 
-- In order to run the code as it was structured you need to use py4web which it was used to deploy PythonAnywhere, 
+- Link to interactive cannabis sales analysis, Massachusetts map for marijuana licensed businesses and database tables: <a href='https://haritha79.pythonanywhere.com/UpNsmoke/'><strong>click here</strong></a><br><br>
+- Link to interactive national legalization map: <a href='https://haritha3679.github.io/up-N-smoke/'><strong>click here</strong></a><br>
+- Crime analytics : Please run below two Jupyter note books for MA crime analysis.
+    - MA_Crime_Data_starter-checkpoint.ipynb : Crime Analysis
+    - MA_Crime_Data_starter.ipynb : Crime Analysis
 
 ## Contributors
 - Carmen Y Wiggins  
